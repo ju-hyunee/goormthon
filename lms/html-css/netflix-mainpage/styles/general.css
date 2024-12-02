@@ -1,0 +1,16 @@
+/* z-indx 적용 요소
+1. header.css
+ - .header: 100
+2. main.css
+ - .originals-section, .trending-section: 50
+*/
+
+body {
+    margin: 0;
+}
+
+:root {
+    --text: white;
+}
+
+

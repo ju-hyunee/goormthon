@@ -1,0 +1,30 @@
+
+.header {
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+}
+
+.header__home {
+    cursor: pointer;
+}
+
+.header__profile {
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+.logo-img {
+    height: 50px;
+}
+
+.profile-img {
+    height: 30px;
+}
